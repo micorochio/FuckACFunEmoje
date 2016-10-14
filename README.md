@@ -4,5 +4,6 @@
 _测试_
 
 拖到书签栏
+![干翻ACFun表情点击~书签](javascript:void (function(a,d)%7Bd%3if(fuckAcfunEmoje)%7bclearInterval(ttt)%3bfuckAcfunEmoje%3dfalse%7dfunction+clickOnece()%7bdocument.getElementsByClassName(%22footer-avatar-ac%22)%5b0%5d.click()%7dfuckAcfunEmoje%3dsetInterval(clickOnece%2c13)%3b(function()%7b%7d)()%3b))
 
-<a herf= "javascript:void (function(a,d)%7Bd%3Ddocument.createElement(%27script%27)%3Bd.src%3Da%3Bdocument.body.appendChild(d)%7D)(%27https://github.com/micorochio/FuckACFunEmoje/b0om.js%27)">干翻ACFun表情点击~书签</a>
+<a herf= "javascript:void (function(a,d)%7Bd%3if(fuckAcfunEmoje)%7bclearInterval(ttt)%3bfuckAcfunEmoje%3dfalse%7dfunction+clickOnece()%7bdocument.getElementsByClassName(%22footer-avatar-ac%22)%5b0%5d.click()%7dfuckAcfunEmoje%3dsetInterval(clickOnece%2c13)%3b(function()%7b%7d)()%3b)">干翻ACFun表情点击~书签</a>

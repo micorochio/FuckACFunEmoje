@@ -25,3 +25,7 @@ javascript:void(function(a,d)%7Bd%3Ddocument.createElement(%27script%27)%3Bd.src
 这样可以手工控制连击时间间隔，但是其实时间有上限的。
 
 不说了，又有未知核弹升空了。
+
+
+# Bilibili直播间刷屏脚本
+ 3秒刷一次 **bilibili-(゜-゜)つロ乾杯~**，在人多抢礼物的时候使用，其实没什么卵用，刷太快容易被禁言
